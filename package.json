@@ -1,0 +1,23 @@
+{
+  "name": "cypress_pruebas",
+  "version": "1.0.0",
+  "description": "cypres_pruebas_vs1",
+  "main": "test",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "pruebas",
+    "cypress",
+    "vs1"
+  ],
+  "author": "nicole",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.3.3"
+  },
+  "dependencies": {
+    "mysql2": "^3.6.2"
+  }
+}
